@@ -1,0 +1,65 @@
+.I 1
+.T
+Tom
+.A
+Kumar, A.
+.W
+Tom likes hiking in the mountains and reading science fiction but hates bitter coffee, crowded places and spicy food.
+.X
+3	10	3
+50	2	3
+120	1	3
+180	1	3
+240	1	3
+.I 2
+.T
+Emma
+.A
+Lopez, M.
+.W
+Emma likes video games, painting and fresh pastries but hates early mornings and loud music.
+.X
+4	15	4
+65	1	4
+130	1	4
+195	1	4
+260	1	4
+.I 3
+.T
+James
+.A
+Chen, B.
+.W
+James likes video games and jazz music but hates reading science fiction, traffic jams and plastic waste.
+.X
+5	20	5
+75	1	5
+150	1	5
+225	1	5
+300	1	5
+.I 4
+.T
+Olivia
+.A
+Garcia, E.
+.W
+Olivia likes spicy food, sunny beaches and classic novels but hates bitter coffee and reality TV shows.
+.X
+6	25	6
+85	1	6
+170	1	6
+255	1	6
+340	1	6
+.I 5
+.T
+Ethan
+.A
+Singh, R.
+.W
+Ethan likes gardening and spicy food but hates crowded places and fast food.
+.X
+7	30	7
+95	1	7
+190	1	7
+285	1	7
+380	1	7

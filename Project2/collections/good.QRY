@@ -1,0 +1,20 @@
+.I 1 
+ Emma
+.I 2 
+:not: Emma
+.I 3 
+ games :or: spicy
+.I 4 
+ games :and: :not: painting
+.I 5 
+ :not: ( hiking :and: reading )
+.I 6 
+ hiking :and: reading
+.I 7 
+ ( novels :or: crowded ) :and: :not: beaches
+.I 8 
+ sunny :and: :not: ( jazz :or: painting )
+.I 9 
+ ( Olivia :or: Emma ) :and: :not: games
+.I 10 
+ Jams
