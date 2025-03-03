@@ -1,0 +1,29 @@
+.I 1
+.T
+How ReLU Enables Neural Networks to Approximate Continuous Nonlinear Functions
+.A
+Thi LE
+.W
+Activation functions play an integral role in Neural Networks (NNs) since they introduce non-linearity and allow the network to learn more complex features and functions than just a linear regression. One of the most commonly used activation functions is Rectified Linear Unit (ReLU), which has been theoretically shown to enable NNs to approximate a wide range of continuous functions, making them powerful function approximators.
+.X
+1	3	1
+2	5	1
+.I 2
+.T
+Continuous piecewise linear function approximation
+.A
+Thi LE
+.W
+In a NN with one hidden layer using ReLU activation and a linear output layer, the activations are aggregated to form the CPWL target function. Each unit of the hidden layer is responsible for a linear piece. essay.
+.X
+1	3	2
+2	3	2
+.I 3
+.T
+Attention Is All You Need : A Complete Guide to Transformers
+.A
+Alejandro Ito Aramendia
+.W
+The transformer is an architecture that relies on the concept of attention, a technique used to provide weights to different parts of an input sequence so that a better understanding of its underlying context is achieved. This allows transformers to perform machine translation, text generation and many other NLP tasks.
+.X
+3	5	3
